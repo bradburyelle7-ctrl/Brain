@@ -3,16 +3,17 @@
 Fall 2026 at Rotman Commerce. Start here.
 
 ## Courses
-- [[Courses/ECO101 Economics/ECO101 Economics|ECO101 Principles of Microeconomics]]
-- [[Courses/RSM100 Management/RSM100 Management|RSM100 Introduction to Management]]
-- [[Courses/RSM219 Financial Accounting/RSM219 Financial Accounting|RSM219 Financial Accounting]]
-- [[Courses/MAT133 Calculus/MAT133 Calculus|MAT133 Calculus and Linear Algebra for Commerce]]
-- [[Courses/General/General|General]] (academic policy, due dates calendar)
+- [[ECO101/README|ECO101 Principles of Microeconomics]]
+- [[RSM100/README|RSM100 Introduction to Management]]
+- [[RSM219/README|RSM219 Financial Accounting]]
+- [[MAT133/README|MAT133 Calculus and Linear Algebra for Commerce]]
+- [[General/README|General]] (academic policy, due dates calendar)
 
 ## How this vault works
-- Every course has an index note listing all its files. Click any file to open it inside Obsidian.
+- Each class folder has a README listing every file. Click any file to open it inside Obsidian.
+- Each class also has a `Text` folder with Markdown copies of every PDF and slide deck. That's what you point Claude Projects at.
 - Make your own notes anywhere and link them with `[[double brackets]]`.
-- The vault auto-commits and pushes to GitHub every 10 minutes (Obsidian Git plugin). Status shows in the bottom bar.
+- The vault auto-commits and pushes to GitHub every 10 minutes (Obsidian Git plugin).
 
 ## Shortcuts
 - Ctrl+N new note, Ctrl+O open by name, Ctrl+G graph view, Ctrl+P command palette

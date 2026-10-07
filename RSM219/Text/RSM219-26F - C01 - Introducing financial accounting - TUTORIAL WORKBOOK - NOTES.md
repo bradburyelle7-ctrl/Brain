@@ -1,0 +1,180 @@
+# RSM219-26F - C01 - Introducing financial accounting - TUTORIAL WORKBOOK - NOTES
+
+Source: `RSM219/Tutorial Workbooks/RSM219-26F - C01 - Introducing financial accounting - TUTORIAL WORKBOOK - NOTES.pdf` (2 pages)
+
+--- Page 1 ---
+Copyright © 2026 D. Stojanovic. All rights reserved. Developed for RSM219 (Fall 2026) with C. Barrette and E. Palancz  Page 1 of 2 
+RSM 219 | CLASS 1 – TUTORIAL: Introduction to Financial Reporting  
+ 
+QUESTION (17 marks) 
+Tesla Inc. describes itself as follows: We are focused on bringing artificial intelligence (“AI”) into the real world, 
+through products and services like Full Self-Driving (“FSD”) (Supervised) and Robotaxi, as well as working to develop and 
+commercialize AI robots (“Bots”) (including Optimus). (Source: Tesla 2025 annual filing, also called “10-K” filing, in the US) 
+ 
+Tesla’s online FAQ notes: Tesla has never declared dividends on our common stock. We intend on retaining all future 
+earnings to finance future growth and therefore, do not anticipate paying any cash dividends in the foreseeable future.  
+ 
+PART 1 (6 marks) 
+REQUIRED: Use Tesla’s balance sheet and income statement information. Determine the missing numbers. We will 
+review Tesla’s recent performance in future sessions.  
+ 
+ ROW /COLUMN:  A B C D E 
+1 Balance Sheet, as at ($m USD) Dec. 31, 2025 Dec. 31, 2024 Dec. 31, 2023 Dec. 31, 2022 Dec. 31, 2021 
+2 Assets      
+3 Cash 16,513 16,139 16,398  16,253 17,576  
+4 Non-cash assets 121,293 105,931 C4 66,085  44,555  
+5 Total assets 137,806 122,070 C5 82,338  62,131  
+6 Total liabilities 54,941 48,390 43,009  36,440  30,548  
+7 Equity:         
+8 Contributed equity 42,773 38,374 34,895  32,180  29,806  
+9 Retained earnings (deficit) 39,003 35,209 C9 12,885 329  
+10 Other equity and items 1,089 97 832  833 1,448  
+11 Total Equity 82,865 73,680 C11 45,898 31,583  
+13       
+14 Income Statement, for fiscal year ($m USD) Dec. 31, 2025 Dec. 31, 2024 Dec. 31, 2023 Dec. 31, 2022 Dec. 31, 2021 
+15 Revenues 94,827 97,690 96,773  81,462 53,823  
+16 Cost of revenues 77,733 80,240 C16 60,609  40,217  
+17 Gross profit 17,094 17,450 17,660 20,853  13,606  
+18 Other expenses and items 13,300 10,359 2,663  8,297  8,087  
+19 Net income attributable to Tesla shareholders 3,794 7,091 14,997  12,556 5,519  
+ 
+C4: Non-cash assets on Dec. 31, 2023 
+ 
+ 
+ 
+C5: Total assets on Dec. 31, 2023 
+ 
+ 
+ 
+C9: Retained earnings on Dec. 31, 2023 
+ 
+ 
+ 
+ 
+C11: Total equity on Dec. 31, 2023 
+ 
+ 
+ 
+ 
+C16: Cost of revenues for year ending Dec. 31, 2023 
+ 
+ 
+ 
+ 
+Non-cash assets = total assets – cash = C5 – C3 = $106,618 - $16,398 = $90,220 
+Total assets = total liabilities + total equity = C6 + C11 = $43,009 + $63,609 = $106,618 
+Retained earnings on Dec. 31, 2023 = retained earnings on Dec. 31, 2022 + earnings – dividends (notice that Tesla never declared dividends) 
+= D9 + C19 – nil = $12,885 + $14,997 – nil = $27,882 
+Total equity = contributed equity + retained earnings + other equity and items 
+= C8 + C9 + C10 = $34,895 + $27,882 + $832 = $63,609 
+Revenues – cost of revenues = gross profit, Therefore, we can re-arrange to solve as cost of revenues = revenues – gross profit = C15 – C17 
+= $96,773 - $17,660 = $79,113 
+#2 
+#3 
+#4 
+#5 
+#1 
+--- Page 2 ---
+Copyright © 2026 D. Stojanovic. All rights reserved. Developed for RSM219 (Fall 2026) with C. Barrette and E. Palancz  Page 2 of 2 
+PART 2 (2 marks)  
+REQUIRED: Use Tesla’s financial information (including from previous page) to calculate the two key ratios for 2023.  
+ 
+Ratio Dec. 31, 2025 Dec. 31, 2024 Dec. 31, 2023 Dec. 31, 2022 Dec. 31, 2021 
+Debt-to-Equity ratio 0.66  0.66   0.79   0.97  
+Return on Equity ratio 5% 10%  32% 20% 
+ 
+Debt-to-Equity ratio on Dec. 31, 2023: Return on Equity ratio for year ending December 31, 2023: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PART 3 (4 marks) 
+REQUIRED: How are Tesla’s assets financed, and how has this changed over time? What do you expect going forward?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PART 4 (5 marks) 
+REQUIRED: Classify Tesla’s 2025 cash transactions below as operating, investing, or financing. Write “+” (if cash is 
+increasing) or “-” (if cash is decreasing) in the correct column.  
+ 
+Transaction Operating Investing Financing 
+Tesla paid $37.1 billion to purchase financial investments (e.g., shares of other companies)    
+Tesla paid $8.5 billion to purchase property and equipment    
+Tesla borrowed $5.6 billion as debt    
+Tesla repaid $5.5 billion of debt    
+Tesla received $30.1 billion from sale and maturities of financial investments    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Even though total liabilities continue to increase, we notice a steadily decreasing debt -to-equity ratio. This means that there are less and less 
+liabilities for each $1 of equity over time. Therefore, Tesla’s assets are increasingly financed by equity.  
+Biggest increases in equity are coming from increases in retained earnings. In other words, from profits generated by Tesla, which are retained 
+and reinvested in company’s growth. As noted by Tesla “We intend on retaining all future earnings to finance future growth and therefore, do not 
+anticipate paying any cash dividends in the foreseeable future.”  Assuming Tesla remains profitable, we can expect this to be a significant source 
+of financing going forward.  
+= net income / average total equity 
+= A19 / ((A11 + B11) / 2) = 14,997 / ((63,609 + 45,898) / 2) = 0.27 or 27% 
+ 
+For each $1 of average equity, Tesla earned $0.27 in 2023. Please remember 
+that we use average equity because net income is earned throughout the year, 
+not at a single point in time. We will discuss net income attributable to 
+shareholders in future classes.  
+ = total liabilities / total equity  
+= A6 / A11 = 43,009 / 63,609 = 0.68 
+ 
+For each $1 of total equity, Tesla had $0.68 of liabilities 
+ 
+Additional Notes:  
+ Purchasing financial investments is classified as an investing activity because it involves acquiring long-term assets that are not 
+intended for immediate sale and are not part of Tesla’s core operations. This transaction results in a cash outflow (−) as Tesla uses its cash 
+reserves to purchase shares or other financial instruments, aiming to generate returns over time.  
+ Purchasing property and equipment falls under investing activities since it entails capital expenditures on fixed assets necessary for 
+Tesla’s operations, such as factories, machinery, or technology infrastructure. This leads to a decrease in cash (−) as the c ompany invests 
+in its productive capacity to support future growth and operations. 
+ Borrowing debt is a financing activity because it involves obtaining funds through issuing debt instruments like bonds or loans. This 
+transaction results in an increase in cash (+) as Tesla raises capital to finance its operations, invest in new projects, or refinance existing 
+obligations. 
+ Repaying debt is categorized as a financing activity since it involves the outflow of cash to reduce the company’s liabilities by paying 
+back borrowed funds. This results in a cash outflow (−), reflecting Tesla’s efforts to manage its debt levels and maintain a healthy financial 
+position. 
+ Receiving cash from the sale and maturities of financial investments  is an investing activity because it involves disposing of financial  
+assets previously held by Tesla. This transaction leads to a cash inflow (+) as the company liquidates its investments, there by converting 
+non-cash assets back into cash to be used for other purposes. 
+  
+ Operating Investing Financing 
+ -  
+ -  
+  + 
+  - 
+ +  
+ 
+Dec. 31, 2023 
+0.68 
+27%
