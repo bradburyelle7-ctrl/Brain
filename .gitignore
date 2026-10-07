@@ -1,0 +1,5 @@
+# Obsidian per-device state that changes constantly
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
