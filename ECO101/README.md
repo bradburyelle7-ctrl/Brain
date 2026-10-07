@@ -33,6 +33,7 @@ Select the `ECO101/Text` folder. It holds a Markdown copy of every file in this 
 - [[ECO101/Tutorials/Tutorial_Questions_Week_2.pdf|Tutorial_Questions_Week_2.pdf]]
 - [[ECO101/Tutorials/Tutorial_Questions_Week_3.pdf|Tutorial_Questions_Week_3.pdf]]
 - [[ECO101/Tutorials/Tutorial_Questions_Week_4.pdf|Tutorial_Questions_Week_4.pdf]]
+- [[ECO101/Tutorials/Tutorial_Questions_Week_5.pdf|Tutorial_Questions_Week_5.pdf]]
 
 ## Video Slides
 - [[ECO101/Video Slides/ECO101_Video_Slides_W1_Thinking_like_an_Economist_Student.pdf|ECO101_Video_Slides_W1_Thinking_like_an_Economist_Student.pdf]]
