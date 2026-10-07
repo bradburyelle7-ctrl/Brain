@@ -1,13 +1,18 @@
 # Brain
 
-Welcome to your vault. Start here.
+Fall 2026 at Rotman Commerce. Start here.
 
 ## Courses
-Make one folder per module inside `Courses/`. Put lecture notes there and link them to concept notes with `[[double brackets]]`.
+- [[Courses/ECO101 Economics/ECO101 Economics|ECO101 Principles of Microeconomics]]
+- [[Courses/RSM100 Management/RSM100 Management|RSM100 Introduction to Management]]
+- [[Courses/RSM219 Financial Accounting/RSM219 Financial Accounting|RSM219 Financial Accounting]]
+- [[Courses/MAT133 Calculus/MAT133 Calculus|MAT133 Calculus and Linear Algebra for Commerce]]
+- [[Courses/General/General|General]] (academic policy, due dates calendar)
 
-## Quick tips
-- Ctrl+N makes a new note
-- Type `[[` to link to another note
-- Drag a PDF or slide deck into a note to embed it (it lands in `Attachments/`)
-- Ctrl+O opens any note by name
-- Ctrl+G opens the graph view
+## How this vault works
+- Every course has an index note listing all its files. Click any file to open it inside Obsidian.
+- Make your own notes anywhere and link them with `[[double brackets]]`.
+- The vault auto-commits and pushes to GitHub every 10 minutes (Obsidian Git plugin). Status shows in the bottom bar.
+
+## Shortcuts
+- Ctrl+N new note, Ctrl+O open by name, Ctrl+G graph view, Ctrl+P command palette
